@@ -1,1 +1,1 @@
-# SC2-Human-Controlled-Bot
+# SC2-Human-Assisted-Bot
